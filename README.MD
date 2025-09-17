@@ -16,7 +16,7 @@ You can upload **PDF** or **Excel** financial documents, ask questions, and get 
 
 ## 🛠️ Installation
 
-1. Clone this repository:
+1. Clone this repository
    ```bash
-   git clone https://github.com/<your-username>/xavier-finance-assistant.git
+   git clone https://github.com/rajeshmaurya3315/xavier-finance-assistant.git
    cd xavier-finance-assistant
